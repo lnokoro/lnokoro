@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hello World 👋
+
+## I am a current student at ASU
+  - Majoring in Graphic Information Technology (Frontend Development)
+  - Hoping to work as a fulltime Dev post graduation
+  - I enjoy reading, watching movies and learning new technologies.
+
+    ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=lnokoro&show_icons=true&hide_title=true)
 
 <!--
 **lnokoro/lnokoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
