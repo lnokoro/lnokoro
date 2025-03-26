@@ -1,9 +1,15 @@
 # Hello World 👋
 
-## I am a current student at ASU
+## I am a student at ASU
   - Majoring in Graphic Information Technology (Frontend Development)
   - Hoping to work as a fulltime Dev post graduation
-  - I enjoy reading, watching movies and learning new technologies.
+  - I enjoy reading, watching movies, cooking and learning new technologies.
+
+### Currently...
+  - I am learning *HTLM* and *CSS*
+  - Interested in *Front end development* for Web and Apps
+  - Searching for internships in front end development to *learn* more skills
+
 
     ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=lnokoro&show_icons=true&hide_title=true)
 
